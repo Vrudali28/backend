@@ -1,0 +1,67 @@
+[
+    {
+      "name": "TVS Raider",
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/103183/raider-125-right-front-three-quarter-5.png?isig=0&q=80",
+      "capacity": "2 persons",
+      "fuelType": "Petrol",
+      "bookedTimeSlots": [],
+      "rentPerHour": "200"
+    },
+    {
+      "name": "Harley-Davidson X440r",
+      "image": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/145655/x440-right-front-three-quarter-6.jpeg?isig=0&q=80&wm=3",
+      "capacity": "1 person",
+      "fuelType": "Petrol",
+      "bookedTimeSlots": [],
+      "rentPerHour": "250"
+    },
+    {
+      "name": "Royal Enfield Hunter 350",
+      "image": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/124013/hunter-350-right-front-three-quarter.jpeg?isig=0&q=80&wm=3",
+      "capacity": "1 person",
+      "fuelType": "Petrol",
+      "bookedTimeSlots": [],
+      "rentPerHour": "300"
+    },
+    {
+      "name": "Honda SP 125",
+      "image": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/43482/sp-125-right-front-three-quarter-2.jpeg?isig=0&q=80&wm=3",
+      "capacity": "2 persons",
+      "fuelType": "Petrol",
+      "bookedTimeSlots": [],
+      "rentPerHour": "200"
+    },
+    {
+      "name": "Hero Splendor Plus",
+      "image": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/15109/splendor-plus-right-front-three-quarter-4.png?isig=0&q=80&wm=3",
+      "capacity": "1 person",
+      "fuelType": "Petrol",
+      "bookedTimeSlots": [],
+      "rentPerHour": "300"
+    },
+    {
+      "name": "TVS Apache RTR 160",
+      "image": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/130211/apache-160-right-front-three-quarter-2.jpeg?isig=0&q=80&wm=3",
+      "capacity": "1 person",
+      "fuelType": "Petrol",
+      "bookedTimeSlots": [],
+      "rentPerHour": "400"
+    },
+    {
+      "name": "Electric Scooter",
+      "image": "https://imgd.aeplcdn.com/664x374/bw/models/tvs-ntorq-125-drum--bs-vi20200928230303.jpg?q=80",
+      "capacity": "1 person",
+      "fuelType": "Electric",
+      "bookedTimeSlots": [],
+      "rentPerHour": "200"
+    },
+    {
+      "name": "Activa 5G",
+      "image": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/44686/activa-6g-right-front-three-quarter.jpeg?q=80&wm=3",
+      "capacity": "2 persons",
+      "fuelType": "None",
+      "bookedTimeSlots": [],
+      "rentPerHour": "350"
+    }
+  ]
+  
