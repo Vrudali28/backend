@@ -7,7 +7,7 @@ const dbConnection = require('./db');
 app.use(express.json());
 
 // Use CORS middleware to allow requests from all origins
-app.use(cors());
+app.use(cors({origin:"*"}))
 
 // Routes
 app.use('/api/bikes/', require('./routes/bikesRoute'));
